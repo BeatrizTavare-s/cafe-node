@@ -1,0 +1,11 @@
+{
+  "name": "cafenode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node srv/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
